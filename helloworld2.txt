@@ -1,1 +1,2 @@
-恭喜你,你申请的QQ号码是:1823646637
+﻿Git is a distributed version control system.
+Git is free software.
